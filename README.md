@@ -1,7 +1,7 @@
 # Practia de clase HTML
 
-## 1. Crear un archivo HTML
-## 2. Crear un archivo CSS
+## 1. [Crear un archivo HTML] (practica_HTML_1.html)
+## 2. [Crear un archivo CSS] 
 ## 3. Anexar el archivo .txt 
 
 # Fuentes (Google Fonts):
