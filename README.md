@@ -4,6 +4,9 @@
 ## 2. [Crear un archivo CSS] 
 ## 3. Anexar el archivo .txt 
 
+## 4. Hacer otro archivo HTML por diversión
+Puede descargar el proyecto y correrlo, no tiene nada malo :3
+
 # Fuentes (Google Fonts):
 - Benne Static
 - Roboto Static
